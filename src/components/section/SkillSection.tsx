@@ -5,7 +5,7 @@ import SectionTitle from "@/components/core/SectionTitle";
 import SkillItem from "./ui/SkillItem";
 import skills from "@/data/skills";
 
-const HomeSection4 = ({ id }: { id: string }) => {
+const SkillSection = ({ id }: { id: string }) => {
   return (
     <ResponsiveBox
       classNames="bg-[var(--bgColor)] min-h-[calc(100vh-5rem)] items-center justify-center"
@@ -24,4 +24,4 @@ const HomeSection4 = ({ id }: { id: string }) => {
   );
 };
 
-export default HomeSection4;
+export default SkillSection;

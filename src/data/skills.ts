@@ -58,6 +58,10 @@ const skills: ISkillListItem[] = [{
         icon: "/skills/flutter.svg",
     },
     {
+        title: "CodeIgniter",
+        icon: "/skills/codeigniter.svg",
+    },
+    {
         title: "Laravel",
         icon: "/skills/laravel.svg",
     },

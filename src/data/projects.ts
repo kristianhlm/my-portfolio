@@ -55,7 +55,7 @@ const projects: IProjectItem[] = [{
     title: "SPILDex",
     description:
       "API Platform specifically designed to be used by SPIL Partner companies. ",
-    icon: "/kristianhlm.github.io/skills/golang.png",
+    icon: "/skills/golang.png",
     repoType: RepoType.Private,
     projectType: ProjectType.JobWork,
     githubUrl: "",

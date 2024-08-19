@@ -29,10 +29,5 @@ export const menuItems: INavItem[] = [
     name: "Projects",
     link: "/#projects",
     icon: faLaptopCode,
-  },
-  {
-    name: "Contact",
-    link: "/#contact",
-    icon: faEnvelope,
-  },
+  }
 ];

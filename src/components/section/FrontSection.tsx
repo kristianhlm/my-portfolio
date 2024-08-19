@@ -32,7 +32,7 @@ const FrontSection = ({ id }: Readonly<{ id: string }>) => {
             </Column>
 
             <div className="mt-12 lg:mt-16 w-full flex flex-col items-center">
-                <p className="text-base/6 font-medium">Follow me here</p>
+                <p className="text-base/6 font-medium">Contact me here</p>
 
                 <Row classNames="mt-2 gap-2">
                 {socialLinks.map((link, index) => {

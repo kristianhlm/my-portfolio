@@ -129,11 +129,7 @@ const skills: ISkillListItem[] = [{
     {
         title: "Amazon Textract",
         icon: "/skills/textract.png",
-    },
-    {
-        title: "Tensorflow",
-        icon: "/skills/tensorflow.svg",
-    },],
+    }],
 },
 {
     title: "Others",

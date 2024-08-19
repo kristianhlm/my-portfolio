@@ -19,8 +19,7 @@ const experiences: IExperienceItem[] = [
       "text": `In addition to my software engineering skills, I've also showed my dedication to always deliver the best performance at work and follow the
       core values of the company. This dedication is reflected by the achievement and award that I got while working: `,
       "bullets": ["Winner of SPIL Hackathon 2024.",
-        "Awarded with 'Green Star 2023' as one of the best performing employee in the company.",
-        "Awarded with 'Rising Star' in 2021 as the top new employee for IT division.",]
+        "Awarded with 'Green Star 2023' as one of the best performing employee in the company."]
     }]
   },
   {

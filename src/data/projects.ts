@@ -11,8 +11,7 @@ const projects: IProjectItem[] = [{
     projectType: ProjectType.JobWork,
     githubUrl: "",
     url: "https://forwarder.ai/",
-    tags: ["CodeIgniter", "Bootstrap", "Go", "Typescript", "Langchain"],
-    sceenshots: ["/screenshots/rippl.png"],
+    tags: ["CodeIgniter", "Bootstrap", "Go", "Typescript", "Langchain"]
   },{
     id: "myspil-com",
     title: "mySPIL.com",
@@ -25,8 +24,7 @@ const projects: IProjectItem[] = [{
     projectType: ProjectType.JobWork,
     githubUrl: "",
     url: "https://myspil.com/",
-    tags: ["HTML", "CSS", "PHP", "CodeIgniter", "Bootstrap", "Java"],
-    sceenshots: ["/screenshots/rippl.png"],
+    tags: ["HTML", "CSS", "PHP", "CodeIgniter", "Bootstrap", "Java"]
 },{
     id: "myspil-reloaded",
     title: "mySPIL Reloaded",
@@ -38,8 +36,7 @@ const projects: IProjectItem[] = [{
     projectType: ProjectType.JobWork,
     githubUrl: "",
     url: "https://play.google.com/store/apps/details?id=com.myspil_reloaded&hl=en",
-    tags: ["Flutter", "Dart", "Typescript", "ExpressJS", "Firebase"],
-    sceenshots: ["/screenshots/rippl.png"],
+    tags: ["Flutter", "Dart", "Typescript", "ExpressJS", "Firebase"]
 },{
   id: "spil-organizer",
   title: "SPIL Organizer",
@@ -52,14 +49,13 @@ const projects: IProjectItem[] = [{
   projectType: ProjectType.JobWork,
   githubUrl: "",
   url: "https://play.google.com/store/apps/details?id=com.spil.organiser&hl=en",
-  tags: ["Flutter", "Dart", "Typescript", "ExpressJS", "Firebase"],
-  sceenshots: ["/screenshots/rippl.png"],
+  tags: ["Flutter", "Dart", "Typescript", "ExpressJS", "Firebase"]
 },{
     id: "spildex",
     title: "SPILDex",
     description:
       "API Platform specifically designed to be used by SPIL Partner companies. ",
-    icon: "/skills/golang.png",
+    icon: "/kristianhlm.github.io/skills/golang.png",
     repoType: RepoType.Private,
     projectType: ProjectType.JobWork,
     githubUrl: "",

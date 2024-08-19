@@ -1,9 +1,6 @@
 import {
     faGithub,
-    faLinkedin,
-    faTelegram,
-    faInstagram,
-    faXTwitter,
+    faLinkedin
   } from "@fortawesome/free-brands-svg-icons";
   import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
   import Strings from "@/constants/strings";
